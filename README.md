@@ -100,6 +100,6 @@ The project successfully demonstrates the use of SQL to build a robust database 
 
 This project reflects my skills in SQL and database design. Feel free to explore the code and reach out for collaborations or feedback:
 
-- **GitHub Repository**: [Link to be added]
+- **GitHub Repository**: [https://github.com/Muskansheikh18/Food-Delivery-Management-System/blob/main/food%20management%20system.sql]
 - **LinkedIn**: [www.linkedin.com/in/sheikh-muskan-359937209]
 
